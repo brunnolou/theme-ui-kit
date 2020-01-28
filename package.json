@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "theme-ui-reakit-docz-example-typescript",
+  "version": "2.0.0-rc.41",
+  "license": "MIT",
+  "files": [
+    "src/",
+    "doczrc.js",
+    "tsconfig.json",
+    "package.json"
+  ],
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.14",
+    "@theme-ui/components": "^0.2.50",
+    "@types/theme-ui": "^0.2.6",
+    "@types/theme-ui__components": "^0.2.0",
+    "docz": "latest",
+    "lodash.merge": "^4.6.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "reakit": "^1.0.0-beta.14",
+    "theme-ui": "^0.2.52"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4"
+  }
+}
