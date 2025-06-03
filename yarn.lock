@@ -886,12 +886,11 @@
     source-map-support "^0.5.16"
 
 "@babel/runtime-corejs3@^7.7.4":
-  version "7.8.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.8.3.tgz#a2445836d0699e5ba77eea2c790ad9ea51e2cd27"
-  integrity sha512-lrIU4aVbmlM/wQPzhEvzvNJskKyYptuXb0fGC0lTQTupTOYtR2Vqbu6/jf8vTr4M8Wt1nIzxVrSvPI5qESa/xA==
+  version "7.27.4"
+  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.27.4.tgz#7bfea784d23d8747d94025b2c8e9bd0f35e30ff9"
+  integrity sha512-H7QhL0ucCGOObsUETNbB2PuzF4gAvN8p32P6r91bX7M/hk4bx+3yz2hTwHL9d/Efzwu1upeb4/cd7oSxCzup3w==
   dependencies:
-    core-js-pure "^3.0.0"
-    regenerator-runtime "^0.13.2"
+    core-js-pure "^3.30.2"
 
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.4", "@babel/runtime@^7.7.6", "@babel/runtime@^7.7.7":
   version "7.8.3"
@@ -3531,10 +3530,10 @@ core-js-compat@^3.6.2:
     browserslist "^4.8.3"
     semver "7.0.0"
 
-core-js-pure@^3.0.0:
-  version "3.6.4"
-  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.6.4.tgz#4bf1ba866e25814f149d4e9aaa08c36173506e3a"
-  integrity sha512-epIhRLkXdgv32xIUFaaAry2wdxZYBi6bgM7cB136dzzXXa+dFyRLTZeLUJxnd8ShrmyVXBub63n2NHo2JAt8Cw==
+core-js-pure@^3.30.2:
+  version "3.42.0"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.42.0.tgz#e86c45a7f3bdcb608823e872f73d1ad9ddf0531d"
+  integrity sha512-007bM04u91fF4kMgwom2I5cQxAFIy8jVulgr9eozILl/SZE53QOqnW/+vviC+wQWLv+AunBG+8Q0TLoeSsSxRQ==
 
 core-js@2, core-js@^2.4.0, core-js@^2.4.1, core-js@^2.6.11, core-js@^2.6.5:
   version "2.6.11"
